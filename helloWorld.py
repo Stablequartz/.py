@@ -1,0 +1,1 @@
+print("Hello World, This Is Stable Quartz")
